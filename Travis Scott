@@ -1,0 +1,159 @@
+;<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Tributo Travis Scott</title>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1> Jacques Berman Webster II </h1>  
+            <i> Nome artístico Travis Scott, é um rapper, cantor, compositor e produtor musical norte-americano.</i>
+        </div>
+    </header>
+    <div id="linha-horizontal"></div>
+    <section>
+        <div class="imagem_travis">
+            <img src="travis scott.jpg" width="400">
+            <h6> Look Mom I Can Fly - série do Travis na Netflix </h6>
+        </div>
+
+        <div class="carreira"><br>
+            <h1> CARREIRA DE TRAVIS SCOTT </h1><br>
+
+            A sua carreira como produtor musical começou aos 17 anos, quando ainda estava no ensino médio e começou a focar na produção de hip hop. <br>
+            Antes do sucesso, ele formou uma dupla chamada The Graduates (“Os Graduados”) e os The Classmates (“Os Colegas de Classe”), tudo isso antes de se mudar para Nova York. <br>
+            Depois de sair da faculdade para Nova York, Travis Scott começou a trabalhar com Mike Waxx, mas não teve muita projeção na carreira, mudando-se pouco tempo depois para Los Angeles, na Califórnia. <br>
+            Em Los Angeles, ele foi abandonado por um amigo que havia prometido ajudá-lo a fornecer moradia, então começou a dormir no sofá de um amigo que estudava na Universidade do Sul da Califórnia. <br>
+            Nesse meio tempo, ele produziu uma mixtape intitulada Owl Pharaoh, que foi lançada para download gratuito em 2012. <br>
+            Contudo, o projeto foi adiado. Mas isso não o impediu de lançar outros singles que começaram a sedimentar a sua carreira na música. <br>
+            A canção “Days Before Rodeo” foi um sucesso tão grande que logo os ingressos para os seus shows começaram a se esgotar. <br>
+            A partir daí, a carreira do rapper começou a deslanchar e ele começou a soltar cada vez mais músicas e a atrair mais fãs. <br>
+            Hoje, Travis Scott já lançou 3 álbuns de estúdio, 2 álbuns colaborativos e 2 mixtapes. <br>
+        </div>
+        <div class="img">
+            <img src="traviscomec.jpg" width="400">
+            <h6>Travis Scott época do Ensino Médio</h6>
+        </div>
+
+        <div class="discografia">
+            <h1> DISCOGRAFIA </h1><br>
+
+            Travis Scott começou sua carreira com o lançamento de três mixtapes, Cruis'n USA (2011), Owl Pharaoh (2013) e Days Before Rodeo (2014). <br>
+            Em 2015, o rapper lançou o seu primeiro álbum de estúdio, chamado Rodeo, que conta com faixas como “Oh My Dis Side”, “Pray 4 Love” e “Nightcrawler”. <br>
+            Em 2016, Travis Scott lançou seu segundo álbum de estúdio, Birds in The Trap Sing McKnight” e, em 2018, seu mais recente álbum chamado ASTROWORLD, que contém vários dos hits mais famosos do artista. <br>
+            O rapper também já lançou diversos EPs e dois álbuns colaborativos, o Huncho Jack, Jack Huncho (com Quavo) e JackBoys (com JackBoys). <br>
+            E seu próximo lançamento será o álbum tão esperado por todos UTOPIA. <br>
+        </div>
+        <div class="albuns">
+            <a href="https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg?si=Z6XIixHySY24Et-Vqs8g1Q"><img src="rodeo.jpg" width="200"></a>
+            <a href="https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt?si=nNlQpZ6iS_m_O1rN5r8tDA"><img src="bitt.jpg" width="200"></a>
+            <a href="https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1?si=E_7ef6QLRGSk1_s2i6JXlA"><img src="hunchojack.jpg" width="200"></a>
+            <a href="https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I?si=9TUwhN99R_GiLFQYU2NyOw"><img src="astroworld.jpg" width="200"></a>
+            <a href="https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx?si=ndfmsH2FQ3GNkm2_mNA5Lw"><img src="jackboyz.jpg" width="200"></a>
+            <a href="https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve?si=cLgKF-tZR4iDNpcIMv3PUg"><img src="utopia.jpg" width="200"></a>
+        </div>
+    </section>
+
+    <section>
+        <div class="video">
+            <video width="620" height="720" width="720" autoplay controls>
+                <source src="videotravis.mp4" type="video/mp4">
+            </video>
+        </div>
+    </section>
+
+    <div class="wiki">Caso queira mais informações sobre Travis Scott, acesse <a href="https://pt.wikipedia.org/wiki/Travis_Scott"> BIOGRAFIA </a></div>
+
+    <footer>
+        <div class="footer_copy">
+            @COPYRIGHT - 2023
+            <span>TRIBUTE PAGE BY JOÃO CHELINI</span>
+        </div>
+    </footer>
+</body>
+</html>
+
+
+css
+;<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Tributo Travis Scott</title>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1> Jacques Berman Webster II </h1>  
+            <i> Nome artístico Travis Scott, é um rapper, cantor, compositor e produtor musical norte-americano.</i>
+        </div>
+    </header>
+    <div id="linha-horizontal"></div>
+    <section>
+        <div class="imagem_travis">
+            <img src="travis scott.jpg" width="400">
+            <h6> Look Mom I Can Fly - série do Travis na Netflix </h6>
+        </div>
+
+        <div class="carreira"><br>
+            <h1> CARREIRA DE TRAVIS SCOTT </h1><br>
+
+            A sua carreira como produtor musical começou aos 17 anos, quando ainda estava no ensino médio e começou a focar na produção de hip hop. <br>
+            Antes do sucesso, ele formou uma dupla chamada The Graduates (“Os Graduados”) e os The Classmates (“Os Colegas de Classe”), tudo isso antes de se mudar para Nova York. <br>
+            Depois de sair da faculdade para Nova York, Travis Scott começou a trabalhar com Mike Waxx, mas não teve muita projeção na carreira, mudando-se pouco tempo depois para Los Angeles, na Califórnia. <br>
+            Em Los Angeles, ele foi abandonado por um amigo que havia prometido ajudá-lo a fornecer moradia, então começou a dormir no sofá de um amigo que estudava na Universidade do Sul da Califórnia. <br>
+            Nesse meio tempo, ele produziu uma mixtape intitulada Owl Pharaoh, que foi lançada para download gratuito em 2012. <br>
+            Contudo, o projeto foi adiado. Mas isso não o impediu de lançar outros singles que começaram a sedimentar a sua carreira na música. <br>
+            A canção “Days Before Rodeo” foi um sucesso tão grande que logo os ingressos para os seus shows começaram a se esgotar. <br>
+            A partir daí, a carreira do rapper começou a deslanchar e ele começou a soltar cada vez mais músicas e a atrair mais fãs. <br>
+            Hoje, Travis Scott já lançou 3 álbuns de estúdio, 2 álbuns colaborativos e 2 mixtapes. <br>
+        </div>
+        <div class="img">
+            <img src="traviscomec.jpg" width="400">
+            <h6>Travis Scott época do Ensino Médio</h6>
+        </div>
+
+        <div class="discografia">
+            <h1> DISCOGRAFIA </h1><br>
+
+            Travis Scott começou sua carreira com o lançamento de três mixtapes, Cruis'n USA (2011), Owl Pharaoh (2013) e Days Before Rodeo (2014). <br>
+            Em 2015, o rapper lançou o seu primeiro álbum de estúdio, chamado Rodeo, que conta com faixas como “Oh My Dis Side”, “Pray 4 Love” e “Nightcrawler”. <br>
+            Em 2016, Travis Scott lançou seu segundo álbum de estúdio, Birds in The Trap Sing McKnight” e, em 2018, seu mais recente álbum chamado ASTROWORLD, que contém vários dos hits mais famosos do artista. <br>
+            O rapper também já lançou diversos EPs e dois álbuns colaborativos, o Huncho Jack, Jack Huncho (com Quavo) e JackBoys (com JackBoys). <br>
+            E seu próximo lançamento será o álbum tão esperado por todos UTOPIA. <br>
+        </div>
+        <div class="albuns">
+            <a href="https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg?si=Z6XIixHySY24Et-Vqs8g1Q"><img src="rodeo.jpg" width="200"></a>
+            <a href="https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt?si=nNlQpZ6iS_m_O1rN5r8tDA"><img src="bitt.jpg" width="200"></a>
+            <a href="https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1?si=E_7ef6QLRGSk1_s2i6JXlA"><img src="hunchojack.jpg" width="200"></a>
+            <a href="https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I?si=9TUwhN99R_GiLFQYU2NyOw"><img src="astroworld.jpg" width="200"></a>
+            <a href="https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx?si=ndfmsH2FQ3GNkm2_mNA5Lw"><img src="jackboyz.jpg" width="200"></a>
+            <a href="https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve?si=cLgKF-tZR4iDNpcIMv3PUg"><img src="utopia.jpg" width="200"></a>
+        </div>
+    </section>
+
+    <section>
+        <div class="video">
+            <video width="620" height="720" width="720" autoplay controls>
+                <source src="videotravis.mp4" type="video/mp4">
+            </video>
+        </div>
+    </section>
+
+    <div class="wiki">Caso queira mais informações sobre Travis Scott, acesse <a href="https://pt.wikipedia.org/wiki/Travis_Scott"> BIOGRAFIA </a></div>
+
+    <footer>
+        <div class="footer_copy">
+            @COPYRIGHT - 2023
+            <span>TRIBUTE PAGE BY JOÃO CHELINI</span>
+        </div>
+    </footer>
+</body>
+</html>
